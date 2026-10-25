@@ -26,9 +26,11 @@ botones.forEach(function (boton) {
             '.contenido[data-contenido="' + numero + '"]'
         );
 
-
         contenidoSeleccionado.classList.add("activa");
 
     });
 
+
+
+    
 });
