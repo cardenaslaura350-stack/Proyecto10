@@ -3,16 +3,17 @@ body {
     background-color: #ffffff;
     margin: 0;
     padding: 12px;
-    color: #111111;
+    color: #fff;
 }
 
 
 .contenedor {
-    border: 2px solid #222222;
-    border-radius: 18px;
+    border: 3px solid #222222;
+    border-radius: 10px;
     padding: 24px 28px;
     max-width: 1000px;
     margin: 0 auto;
+    background-color: blue;
 }
 
 
@@ -30,14 +31,14 @@ body {
     border-bottom: 3px solid transparent;
     padding: 10px 12px;
     font-size: 18px;
-    color: #999999;
+    color: #fff;
     cursor: pointer;
 }
 
 
 .boton-pestana.activa {
-    color: #222222;
-    border-bottom-color: #222222;
+    color: #000;
+    border-bottom-color: #000;
 }
 
 
